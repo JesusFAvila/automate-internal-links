@@ -19,10 +19,10 @@ Plugin de WordPress para automatizar la creación de enlaces internos en el cont
 3. Ingresa las palabras clave y las URLs asociadas.
 4. Guarda los cambios.
 
-## Futuras actualizaciones (Versión 3.0):
+## Futuras actualizaciones (Versión 3.0.1):
 
-1. Añadir capacidad para más campos de palabras clave y URL.
-2. Implementar mejoras de seguridad.
+1. Eliminar espacios y que no distinga entre mayúsculas y minúsculas.
+2. Añadir enlaces de forma relativa o absoluta.
 3. Optimización del código y mejor rendimiento.
 
 ## Soporte y Contribuciones:
@@ -33,7 +33,7 @@ Para reportar problemas o contribuir al desarrollo de este plugin, por favor [vi
 
 GPL-2.0 License
 
-## Notas de la última actualización 
+## Notas de la última actualización (Versión 3.0.0)
 1. Se añadió un botón "Añadir más campos" en la página de ajustes que permite al usuario agregar dinámicamente más campos de palabras clave y URLs.
 2. Añadir un logotipo del plugin en el panel de administración:
 3. Se validan todas las entradas antes de guardarlas en la base de datos.
