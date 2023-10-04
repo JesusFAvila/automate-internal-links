@@ -1,4 +1,4 @@
-# Automate Internal Links - Versión 3.0
+# Automate Internal Links - Versión 3.0.0
 
 Plugin de WordPress para automatizar la creación de enlaces internos en el contenido basado en palabras clave específicas.
 
