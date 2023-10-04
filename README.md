@@ -34,16 +34,8 @@ Para reportar problemas o contribuir al desarrollo de este plugin, por favor [vi
 GPL-2.0 License
 
 ## Notas de la última actualización 
-1. Aumento de la capacidad para añadir campos adicionales:
-
-a. Se añadió un botón "Añadir más campos" en la página de ajustes que permite al usuario agregar dinámicamente más campos de palabras clave y URLs.
-b. Se utiliza JavaScript para agregar estos campos en el formulario.
-
+1. Se añadió un botón "Añadir más campos" en la página de ajustes que permite al usuario agregar dinámicamente más campos de palabras clave y URLs.
 2. Añadir un logotipo del plugin en el panel de administración:
-a. Se añadió un logotipo en la parte superior de la página de ajustes. (Nota: Debes reemplazar "path_to_your_logo.png" con la ruta real de tu logotipo).
-
-3. Características de seguridad:
-1. Se validan todas las entradas antes de guardarlas en la base de datos.
-2. Se verifica el nonce antes de procesar cualquier dato del formulario para prevenir ataques CSRF.
-3. Se escapan correctamente los datos al mostrarlos en la página de ajustes para prevenir ataques XSS.
+3. Se validan todas las entradas antes de guardarlas en la base de datos.
+4. Se verifica el nonce antes de procesar cualquier dato del formulario para prevenir ataques CSRF.
 
