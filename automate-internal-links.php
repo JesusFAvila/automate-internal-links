@@ -3,7 +3,7 @@
  * Plugin Name: Automate Internal Links
  * Plugin URI: https://github.com/JesusFAvila/
  * Description: Un plugin para automatizar la creación de enlaces internos en el contenido de WordPress basado en palabras clave.
- * Version: 2.0
+ * Version: 3.0.0
  * Author: Jesús Fernández Ávila
  * Author URI: https://github.com/JesusFAvila/
  * License: GPL2
