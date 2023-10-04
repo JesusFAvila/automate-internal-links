@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Automate Internal Links
- * Plugin URI: https://tuwebsite.com/
+ * Plugin URI: https://github.com/JesusFAvila/
  * Description: Un plugin para automatizar la creación de enlaces internos en el contenido de WordPress basado en palabras clave.
  * Version: 2.0
- * Author: Tu Nombre
- * Author URI: https://tuwebsite.com/
+ * Author: Jesús Fernández Ávila
+ * Author URI: https://github.com/JesusFAvila/
  * License: GPL2
  */
 
